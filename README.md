@@ -1,4 +1,6 @@
 Free Flat Social Icons
 ======================
 
-A set of free flat social icons made with Sketch—all are vector based so they are super scaleable
+A set of free flat social icons made with Sketch—all are vector based so they are super scaleable.
+
+http://tinktank.in/free-flat-social-icons/
